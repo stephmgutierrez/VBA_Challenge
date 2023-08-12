@@ -8,4 +8,4 @@ The challenge for this assignment was to create a VBA Script loops through all t
 
 * The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
 
-*The total stock volume of the stock
+* The total stock volume of the stock
